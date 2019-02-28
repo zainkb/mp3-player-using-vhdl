@@ -1,0 +1,5 @@
+vhdl isim_temp "refresh_gen.vhd"
+vhdl isim_temp "listctrl.vhd"
+vhdl isim_temp "keycodecomp.vhd"
+vhdl isim_temp "arbitermultiplexer.vhd"
+vhdl isim_temp "playcontrol.vhd"
